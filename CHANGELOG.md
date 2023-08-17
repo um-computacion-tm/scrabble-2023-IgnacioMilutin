@@ -1,0 +1,1 @@
+-16/08: Creacion de clase Tile y BagTile, BagTile incomopleto de letras. Se crearon funciones de BagTile, take y put.
